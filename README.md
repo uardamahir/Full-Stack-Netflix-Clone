@@ -1,16 +1,14 @@
-# React + Vite
+## React, Firebase ve TMDB API kullanılarak geliştirilmiş tam işlevsel bir Netflix klon uygulaması.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Canlı Demo: full-stack-netflix-clone-gamma.vercel.app
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+# Özellikler
 
-## React Compiler
-
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Firebase Authentication ile kullanıcı kaydı ve girişi.
+- TMDB API entegrasyonu ile gerçek film verileri.
+- YouTube üzerinden film fragmanı oynatma.
+- Kategori bazlı film listeleri (Popüler, En Çok İzlenen, Yakında).
+- Responsive tasarım.
+- Oturum açma / kapatma işlemleri.
+- Scroll ile değişen navbar efekti.
