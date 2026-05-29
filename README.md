@@ -1,4 +1,4 @@
-## React, Firebase ve TMDB API kullanılarak geliştirilmiş tam işlevsel bir Netflix klon uygulaması.
+## React, Firebase ve TMDB API kullanılarak geliştirilmiş bir Netflix klon uygulaması.
 
 ### Canlı Demo: full-stack-netflix-clone-gamma.vercel.app
 
